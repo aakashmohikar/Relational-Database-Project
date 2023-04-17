@@ -1,2 +1,4 @@
 # Relational-Database-Project
-This project was undertaken as part of the LIS 751 - Database Design for Information Professionals course during the second semester of the MS in Information program. 
+This project was undertaken as part of the LIS 751 - Database Design for Information Professionals course during the second semester of the MS in Information program. The objective was to develop a customized database to meet the specific needs of users and a collection of data. The project involved utilizing advanced techniques in database design, development, and implementation to create a robust and efficient database system.
+
+The resulting database was designed to address the specific requirements of the user community and to ensure seamless access to data. The project involved comprehensive research, analysis, and testing to ensure that the database meets the highest standards of quality, reliability, and performance. The database design process was carried out in accordance with established best practices and guidelines, ensuring that the resulting database is scalable, secure, and easy to maintain.
